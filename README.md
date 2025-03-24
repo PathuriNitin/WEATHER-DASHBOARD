@@ -17,3 +17,8 @@ We have used Html,Css,JavaScript and ReactJs for smooth user experince.
 We can run the application using the following commands:
 1.Change path in command prompt to project location
 2.Now run "npm run dev"
+
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/d5a3b4d0-6daf-49e3-925f-8c941cae8c0e)
+
